@@ -20,7 +20,7 @@ I've been programming since middle school and enjoy applying what I've learned t
 
 **Quantum Computing Research — B92 QKD & GHZ-State Generation**
 Collaborative research exploring quantum key distribution alongside entangled three-qubit GHZ-state generation, with implementations and simulations in Python and Cirq. (8/26)
-{B92 QKD & GHZ-State Generation Algorithm]
+[B92 QKD & GHZ-State Generation Algorithm](https://github.com/JK2240/GHZ-Generator-Rodrigo-)
 
 **Java Programming**
 Collection of Java programming projects and coursework demonstrating computational problem-solving and programming fundamentals. (6/26)
