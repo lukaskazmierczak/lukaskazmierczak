@@ -5,16 +5,16 @@ I've been programming since middle school and enjoy applying what I've learned t
 
 **Research & Current Interests**<br>
 
-**-Quantum Computing Research:** Completed a five-week mentored research project exploring concurrent B92 quantum key distribution and GHZ-state generation, using Python and Cirq.<br>
-**-Quantum Error Correction:** Currently investigating quantum error correction through AP Research, with a focus on understanding how quantum information can be protected against noise and errors.<br>
-**-Quantum Algorithms & Simulation:** Interested in quantum circuits, entanglement, error mitigation, and computational approaches to quantum information science.<br>
+>**-Quantum Computing Research:** Completed a five-week mentored research project exploring concurrent B92 quantum key distribution and GHZ-state generation, using Python and Cirq.<br>
+>**-Quantum Error Correction:** Currently investigating quantum error correction through AP Research, with a focus on understanding how quantum information can be protected against noise and errors.<br>
+>**-Quantum Algorithms & Simulation:** Interested in quantum circuits, entanglement, error mitigation, and computational approaches to quantum information science.<br>
 
 **Programming & Technical Skills** <br>
 
-**Languages:** Python, Java, JavaScript, HTML, CSS <br>
-**Quantum Computing:** Cirq, quantum circuit simulation <br>
-**Engineering & Design:** Onshape CAD <br>
-**Tools:** GitHub, Google Colab, Adobe Premiere Pro <br>
+>**Languages:** Python, Java, JavaScript, HTML, CSS <br>
+>**Quantum Computing:** Cirq, quantum circuit simulation <br>
+>**Engineering & Design:** Onshape CAD <br>
+>**Tools:** GitHub, Google Colab, Adobe Premiere Pro <br>
 
 **Selected Projects**
 
@@ -36,6 +36,6 @@ Designed a 3D skateboard model using Onshape, applying CAD modeling and mechanic
 
 **🌱 Currently Exploring**<br>
 
--Quantum error correction codes and fault-tolerant quantum computing<br>
--Quantum communication and cryptography<br>
--Research opportunities involving quantum algorithms and simulation<br>
+>-Quantum error correction codes and fault-tolerant quantum computing<br>
+>-Quantum communication and cryptography<br>
+>-Research opportunities involving quantum algorithms and simulation<br>
