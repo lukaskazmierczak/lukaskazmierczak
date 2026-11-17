@@ -14,7 +14,7 @@ I've been programming since middle school and enjoy applying what I've learned t
 **Languages:** Python, Java, JavaScript, HTML, CSS <br>
 **Quantum Computing:** Cirq, quantum circuit simulation <br>
 **Engineering & Design:** Onshape CAD <br>
-**Tools:** GitHub, Google Colab, Adobe Premiere Pro <br>
+**Tools:** GitHub, Google Colab <br>
 
 **Selected Projects**
 
