@@ -1,7 +1,6 @@
 # Hi, I'm Lukas Kazmierczak
 
 I'm a high school student interested in quantum computing, computer science, and engineering, particularly how computational methods can help solve complex scientific problems.
-
 I've been programming since middle school and enjoy applying what I've learned to research, simulations, and independent projects.
 
 **🔬 Research & Current Interests**<br>
