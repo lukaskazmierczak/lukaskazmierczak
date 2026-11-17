@@ -29,11 +29,11 @@ I've been programming since middle school and enjoy applying what I've learned t
 ><img align="left" width="176" height="99" alt="quantum-error-correction" src="https://github.com/user-attachments/assets/7ff49fdb-85d5-441b-ad1e-8f49ae2f4c4d" />
 >Collaborative research exploring quantum key distribution alongside entangled three-qubit GHZ-state generation, with implementations and simulations in Python and Cirq. (8/2026)
 [B92 QKD & GHZ-State Generation Algorithm](https://github.com/JK2240/GHZ-Generator-Rodrigo-)
->Quantum Error Correction animation created by Dave Whyte. GIF converted from the [original video.](https://www.quantamagazine.org/quantum-computers-cross-critical-error-threshold-20241209/)
+>Quantum Error Correction animation created by Dave Whyte. GIF converted from the [original video.](https://www.quantamagazine.org/quantum-computers-cross-critical-error-threshold-20241209/)<br>
 
 **Java Programming**
 ><img align="left" width="180" height="162.5" alt="lukas_java_recursive_flood_fill" src="https://github.com/user-attachments/assets/4bd09dc8-3053-4bb2-a28c-d2ce4e60de1a" />
->>Collection of Java programming projects and coursework demonstrating computational problem-solving and programming fundamentals as part of AP Computer Science A. (6/2026) [Java Project](https://github.com/lukaskazmierczak/Java_code)
+>>Collection of Java programming projects and coursework demonstrating computational problem-solving and programming fundamentals as part of AP Computer Science A. (6/2026) [Java Project](https://github.com/lukaskazmierczak/Java_code)<br>
 
 **Engineering - Skateboard CAD Model**
 >Designed a 3D skateboard model using Onshape, applying CAD modeling and mechanical assembly concepts as part of Intro to Engineering course. (6/2025)
