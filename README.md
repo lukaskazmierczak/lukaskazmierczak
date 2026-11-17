@@ -1,4 +1,5 @@
 # Hi, I'm Lukas Kazmierczak
+<img width="543" height="724" alt="Lukas Profile Photo (2)" src="https://github.com/user-attachments/assets/18fd3add-057b-425d-a424-b6de1a25963d" />
 
 I'm a high school student interested in quantum computing, computer science, and engineering, particularly how computational methods can help solve complex scientific problems.
 I've been programming since middle school and enjoy applying what I've learned to research, simulations, and independent projects.
