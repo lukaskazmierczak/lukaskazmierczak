@@ -4,13 +4,10 @@ I'm a high school student interested in quantum computing, computer science, and
 
 I've been programming since middle school and enjoy applying what I've learned to research, simulations, and independent projects.
 
-**🔬 Research & Current Interests**
-
-Quantum Computing Research: Completed a five-week mentored research project exploring concurrent B92 quantum key distribution and GHZ-state generation, using Python and Cirq.
-
-Quantum Error Correction: Currently investigating quantum error correction through AP Research, with a focus on understanding how quantum information can be protected against noise and errors.
-
-Quantum Algorithms & Simulation: Interested in quantum circuits, entanglement, error mitigation, and computational approaches to quantum information science.
+**🔬 Research & Current Interests**<br>
+-Quantum Computing Research: Completed a five-week mentored research project exploring concurrent B92 quantum key distribution and GHZ-state generation, using Python and Cirq.<br>
+-Quantum Error Correction: Currently investigating quantum error correction through AP Research, with a focus on understanding how quantum information can be protected against noise and errors.<br>
+-Quantum Algorithms & Simulation: Interested in quantum circuits, entanglement, error mitigation, and computational approaches to quantum information science.<br>
 
 **💻 Programming & Technical Skills**
 
