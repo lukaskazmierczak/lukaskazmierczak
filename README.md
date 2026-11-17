@@ -5,13 +5,12 @@ I'm a high school student interested in quantum computing, computer science, and
 I've been programming since middle school and enjoy applying what I've learned to research, simulations, and independent projects.
 
 **Research & Current Interests**<br>
+<img align="right" width="320" height="180" alt="quantum-error-correction" src="https://github.com/user-attachments/assets/7ff49fdb-85d5-441b-ad1e-8f49ae2f4c4d" />
+*Quantum Error Correction animation created by Dave Whyte. GIF converted from the original video.*
 
 **-Quantum Computing Research:** Completed a 5-week mentored research project exploring concurrent B92 quantum key distribution and GHZ-state generation, using Python and Cirq.<br>
 **-Quantum Error Correction:** Currently investigating quantum error correction through my AP Research class, with a focus on understanding how quantum information can be protected against noise and errors.<br>
 **-Current Interests:** Interested in quantum circuits, entanglement, error mitigation, and computational approaches to quantum information science. Interest in further exploring quantum communication and cryptography and research opportunities involving quantum algorithms and simulation <br>
-
-<img align="right" width="320" height="180" alt="quantum-error-correction" src="https://github.com/user-attachments/assets/7ff49fdb-85d5-441b-ad1e-8f49ae2f4c4d" />
-*Quantum Error Correction animation created by Dave Whyte. GIF converted from the original video.*
 
 **Programming & Technical Skills** <br>
 
