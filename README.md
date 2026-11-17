@@ -1,4 +1,4 @@
-#Hi, I'm Lukas Kazmierczak#
+# Hi, I'm Lukas Kazmierczak
 
 I'm a high school student interested in quantum computing, computer science, and engineering, particularly how computational methods can help solve complex scientific problems.
 
