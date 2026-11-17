@@ -31,7 +31,7 @@ I've been programming since middle school and enjoy applying what I've learned t
 [CAD Project](https://github.com/lukaskazmierczak/OnShape-CAD-Project-Skateboard-Model)
 
 **Javascript/Web Programming**
->Javascript programming projects demonstrating computational problem-solving and programming fundamentals as part of 4 course sequence. (6/2024)
+>Javascript programming projects demonstrating my web development skills through responsive design, JavaScript programming, and interactive web applications as part of 4 course sequence. (6/2024)
 [Javascript Project](https://github.com/lukaskazmierczak/Javascript-InteractiveWeb)
 
 **Python Programming**
