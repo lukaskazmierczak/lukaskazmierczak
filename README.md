@@ -34,7 +34,7 @@ I've been programming since middle school and enjoy applying what I've learned t
 >(6/24)
 [Javascript Project]
 
-**🌱 Currently Exploring**<br>
+**Currently Exploring**<br>
 
 -Quantum error correction codes and fault-tolerant quantum computing<br>
 -Quantum communication and cryptography<br>
