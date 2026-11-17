@@ -19,23 +19,23 @@ I've been programming since middle school and enjoy applying what I've learned t
 **Selected Projects**
 
 **Quantum Computing Research — B92 QKD & GHZ-State Generation**
->Collaborative research exploring quantum key distribution alongside entangled three-qubit GHZ-state generation, with implementations and simulations in Python and Cirq. (8/26)
+>Collaborative research exploring quantum key distribution alongside entangled three-qubit GHZ-state generation, with implementations and simulations in Python and Cirq. (8/2026)
 [B92 QKD & GHZ-State Generation Algorithm](https://github.com/JK2240/GHZ-Generator-Rodrigo-)
 
 **Java Programming**
->Collection of Java programming projects and coursework demonstrating computational problem-solving and programming fundamentals as part of AP Computer Science A. (6/26)
+>Collection of Java programming projects and coursework demonstrating computational problem-solving and programming fundamentals as part of AP Computer Science A. (6/2026)
 [Java Project](https://github.com/lukaskazmierczak/Java_code)
 
 **Engineering - Skateboard CAD Model**
->Designed a 3D skateboard model using Onshape, applying CAD modeling and mechanical assembly concepts. (6/25)
+>Designed a 3D skateboard model using Onshape, applying CAD modeling and mechanical assembly concepts. (6/2025)
 [CAD Project](https://github.com/lukaskazmierczak/OnShape-CAD-Project-Skateboard-Model)
 
 **Javascript/Web Programming**
->Javascript programming projects demonstrating computational problem-solving and programming fundamentals as part of 4 course sequence. (6/24)
+>Javascript programming projects demonstrating computational problem-solving and programming fundamentals as part of 4 course sequence. (6/2024)
 [Javascript Project](https://github.com/lukaskazmierczak/Javascript-InteractiveWeb)
 
 **Python Programming**
->Python programming projects demonstrating computational problem-solving and programming fundamentals as part of 4 course sequence. (2/23)
+>Python programming projects demonstrating computational problem-solving and programming fundamentals as part of 4 course sequence. (2/2023)
 [Python Project](https://github.com/lukaskazmierczak/Python-WebDev)
 
 **Currently Exploring**<br>
