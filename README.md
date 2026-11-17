@@ -7,7 +7,8 @@ I've been programming since middle school and enjoy applying what I've learned t
 
 **-Quantum Computing Research:** Completed a 5-week mentored research project exploring concurrent B92 quantum key distribution and GHZ-state generation, using Python and Cirq.<br>
 **-Quantum Error Correction:** Currently investigating quantum error correction through my AP Research class, with a focus on understanding how quantum information can be protected against noise and errors.<br>
-**-Quantum Algorithms & Simulation:** Interested in quantum circuits, entanglement, error mitigation, and computational approaches to quantum information science.<br>
+**-Quantum Algorithms & Simulation:** Interested in quantum circuits, entanglement, error mitigation, and computational approaches to quantum information science. 
+**-Currently Exploring:** Quantum error correction codes and fault-tolerant quantum computing, quantum communication and cryptography, research opportunities involving quantum algorithms and simulation<br>
 
 **Programming & Technical Skills** <br>
 
@@ -37,9 +38,3 @@ I've been programming since middle school and enjoy applying what I've learned t
 **Python Programming**
 >Python programming projects demonstrating Python programming, HTML, and CSS, progressing from foundational programming concepts to building interactive applications, games, and websites as part of 4 course sequence. (2/2023)
 [Python Project](https://github.com/lukaskazmierczak/Python-WebDev)
-
-**Currently Exploring**<br>
-
--Quantum error correction codes and fault-tolerant quantum computing<br>
--Quantum communication and cryptography<br>
--Research opportunities involving quantum algorithms and simulation<br>
