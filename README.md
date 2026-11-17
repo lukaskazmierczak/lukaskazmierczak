@@ -23,7 +23,7 @@ I've been programming since middle school and enjoy applying what I've learned t
 [B92 QKD & GHZ-State Generation Algorithm](https://github.com/JK2240/GHZ-Generator-Rodrigo-)
 
 **Java Programming**
->Collection of Java programming projects and coursework demonstrating computational problem-solving and programming fundamentals. (6/26)
+>Collection of Java programming projects and coursework demonstrating computational problem-solving and programming fundamentals as part of AP Computer Science A. (6/26)
 [Java Project](https://github.com/lukaskazmierczak/Java_code)
 
 **Engineering - Skateboard CAD Model**
@@ -31,11 +31,11 @@ I've been programming since middle school and enjoy applying what I've learned t
 [CAD Project](https://github.com/lukaskazmierczak/OnShape-CAD-Project-Skateboard-Model)
 
 **Javascript/Web Programming**
->(6/24)
+>Javascript programming projects demonstrating computational problem-solving and programming fundamentals as part of 4 course sequence. (6/24)
 [Javascript Project]
 
->**Python Programming**
->(2/23)
+**Python Programming**
+>Python programming projects demonstrating computational problem-solving and programming fundamentals as part of 4 course sequence. (2/23)
 [Python Project]
 
 **Currently Exploring**<br>
