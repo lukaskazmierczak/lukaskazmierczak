@@ -32,7 +32,7 @@ I've been programming since middle school and enjoy applying what I've learned t
 
 **Javascript/Web Programming**
 >Javascript programming projects demonstrating computational problem-solving and programming fundamentals as part of 4 course sequence. (6/24)
-[Javascript Project])https://github.com/lukaskazmierczak/Javascript-InteractiveWeb)
+[Javascript Project](https://github.com/lukaskazmierczak/Javascript-InteractiveWeb)
 
 **Python Programming**
 >Python programming projects demonstrating computational problem-solving and programming fundamentals as part of 4 course sequence. (2/23)
