@@ -27,7 +27,7 @@ I've been programming since middle school and enjoy applying what I've learned t
 [Java Project](https://github.com/lukaskazmierczak/Java_code)
 
 **Engineering - Skateboard CAD Model**
->Designed a 3D skateboard model using Onshape, applying CAD modeling and mechanical assembly concepts. (6/2025)
+>Designed a 3D skateboard model using Onshape, applying CAD modeling and mechanical assembly concepts as part of Intro to Engineering course. (6/2025)
 [CAD Project](https://github.com/lukaskazmierczak/OnShape-CAD-Project-Skateboard-Model)
 
 **Javascript/Web Programming**
