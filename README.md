@@ -27,8 +27,8 @@ I've been programming since middle school and enjoy applying what I've learned t
 
 **Quantum Computing Research — B92 QKD & GHZ-State Generation** <br>
 ><img align="left" width="85" height="85" alt="Yellow GHZ Key-Exchange Storyboard Animation" src="https://github.com/user-attachments/assets/bb03d410-b5de-4d9f-82d8-9273a7b3a467" />
->Collaborative research exploring quantum key distribution alongside entangled three-qubit GHZ-state generation, with implementations and simulations in Python and Cirq. (8/2026)
-[B92 QKD & GHZ-State Generation Algorithm](https://github.com/JK2240/GHZ-Generator-Rodrigo-)
+>   Collaborative research exploring quantum key distribution alongside entangled three-qubit GHZ-state generation, with implementations and simulations in Python and Cirq. (8/2026)
+   [B92 QKD & GHZ-State Generation Algorithm](https://github.com/JK2240/GHZ-Generator-Rodrigo-)
 
 **Java Programming** <br>
 ><img align="left" width="90" height="81.25" alt="lukas_java_recursive_flood_fill" src="https://github.com/user-attachments/assets/4bd09dc8-3053-4bb2-a28c-d2ce4e60de1a" />
