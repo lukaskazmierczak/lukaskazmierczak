@@ -25,19 +25,15 @@ Tools: GitHub, Google Colab, Adobe Premiere Pro
 **🚀 Selected Projects**
 
 **Quantum Computing Research — B92 QKD & GHZ-State Generation**
-
 Collaborative research exploring quantum key distribution alongside entangled three-qubit GHZ-state generation, with implementations and simulations in Python and Cirq. (8/26)
 
 **Java Programming**
-
 Collection of Java programming projects and coursework demonstrating computational problem-solving and programming fundamentals. (6/26)
 
 **Skateboard CAD Model**
-
 Designed a 3D skateboard model using Onshape, applying CAD modeling and mechanical assembly concepts. (6/25)
 
 **Javascript Example Project**
-
 (6/24)
 
 **🌱 Currently Exploring**
@@ -47,7 +43,3 @@ Quantum error correction codes and fault-tolerant quantum computing
 Quantum communication and cryptography
 
 Research opportunities involving quantum algorithms and simulation
-
-🔗 Connect
-
-LinkedIn · GitHub
