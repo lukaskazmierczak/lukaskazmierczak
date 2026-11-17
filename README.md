@@ -36,6 +36,6 @@ Designed a 3D skateboard model using Onshape, applying CAD modeling and mechanic
 
 **🌱 Currently Exploring**<br>
 
-Quantum error correction codes and fault-tolerant quantum computing<br>
-Quantum communication and cryptography<br>
-Research opportunities involving quantum algorithms and simulation<br>
+-Quantum error correction codes and fault-tolerant quantum computing<br>
+-Quantum communication and cryptography<br>
+-Research opportunities involving quantum algorithms and simulation<br>
