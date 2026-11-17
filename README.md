@@ -5,9 +5,6 @@ I'm a high school student interested in quantum computing, computer science, and
 I've been programming since middle school and enjoy applying what I've learned to research, simulations, and independent projects.
 
 **Research & Current Interests**<br>
-<img align="right" width="320" height="180" alt="quantum-error-correction" src="https://github.com/user-attachments/assets/7ff49fdb-85d5-441b-ad1e-8f49ae2f4c4d" />
-*Quantum Error Correction animation created by Dave Whyte. GIF converted from the original video.*
-
 **-Quantum Computing Research:** Completed a 5-week mentored research project exploring concurrent B92 quantum key distribution and GHZ-state generation, using Python and Cirq.<br>
 **-Quantum Error Correction:** Currently investigating quantum error correction through my AP Research class, with a focus on understanding how quantum information can be protected against noise and errors.<br>
 **-Current Interests:** Interested in quantum circuits, entanglement, error mitigation, and computational approaches to quantum information science. Interest in further exploring quantum communication and cryptography and research opportunities involving quantum algorithms and simulation <br>
@@ -31,6 +28,8 @@ I've been programming since middle school and enjoy applying what I've learned t
 **Quantum Computing Research — B92 QKD & GHZ-State Generation**
 >Collaborative research exploring quantum key distribution alongside entangled three-qubit GHZ-state generation, with implementations and simulations in Python and Cirq. (8/2026)
 [B92 QKD & GHZ-State Generation Algorithm](https://github.com/JK2240/GHZ-Generator-Rodrigo-)
+><img align="left" width="160" height="90" alt="quantum-error-correction" src="https://github.com/user-attachments/assets/7ff49fdb-85d5-441b-ad1e-8f49ae2f4c4d" />
+*Quantum Error Correction animation created by Dave Whyte. GIF converted from the original video.*
 
 **Java Programming**
 >Collection of Java programming projects and coursework demonstrating computational problem-solving and programming fundamentals as part of AP Computer Science A. (6/2026)
