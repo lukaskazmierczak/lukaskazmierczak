@@ -26,7 +26,7 @@ I've been programming since middle school and enjoy applying what I've learned t
 **Selected Projects**
 
 **Quantum Computing Research — B92 QKD & GHZ-State Generation**
-<img align="left" width="109.25" height="109.5" alt="Yellow GHZ Key-Exchange Storyboard Animation" src="https://github.com/user-attachments/assets/bb03d410-b5de-4d9f-82d8-9273a7b3a467" />
+<img align="left" width="90" height="90" alt="Yellow GHZ Key-Exchange Storyboard Animation" src="https://github.com/user-attachments/assets/bb03d410-b5de-4d9f-82d8-9273a7b3a467" />
 >Collaborative research exploring quantum key distribution alongside entangled three-qubit GHZ-state generation, with implementations and simulations in Python and Cirq. (8/2026)
 [B92 QKD & GHZ-State Generation Algorithm](https://github.com/JK2240/GHZ-Generator-Rodrigo-)
 
