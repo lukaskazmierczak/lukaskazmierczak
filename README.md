@@ -26,13 +26,17 @@ I've been programming since middle school and enjoy applying what I've learned t
 >Collection of Java programming projects and coursework demonstrating computational problem-solving and programming fundamentals. (6/26)
 [Java Project](https://github.com/lukaskazmierczak/Java_code)
 
-**Skateboard CAD Model**
+**Engineering - Skateboard CAD Model**
 >Designed a 3D skateboard model using Onshape, applying CAD modeling and mechanical assembly concepts. (6/25)
 [CAD Project](https://github.com/lukaskazmierczak/OnShape-CAD-Project-Skateboard-Model)
 
-**Javascript Example Project**
+**Javascript/Web Programming**
 >(6/24)
 [Javascript Project]
+
+>**Python Programming**
+>(2/23)
+[Python Project]
 
 **Currently Exploring**<br>
 
