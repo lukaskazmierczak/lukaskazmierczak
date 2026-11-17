@@ -24,7 +24,7 @@ Collaborative research exploring quantum key distribution alongside entangled th
 
 **Java Programming**
 Collection of Java programming projects and coursework demonstrating computational problem-solving and programming fundamentals. (6/26)
-[Java Project]
+[Java Project](https://github.com/lukaskazmierczak/Java_code)
 
 **Skateboard CAD Model**
 Designed a 3D skateboard model using Onshape, applying CAD modeling and mechanical assembly concepts. (6/25)
