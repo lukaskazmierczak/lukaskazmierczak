@@ -33,7 +33,8 @@ I've been programming since middle school and enjoy applying what I've learned t
 
 **Java Programming**
 ><img align="left" width="90" height="81.25" alt="lukas_java_recursive_flood_fill" src="https://github.com/user-attachments/assets/4bd09dc8-3053-4bb2-a28c-d2ce4e60de1a" />
->>Collection of Java programming projects and coursework demonstrating computational problem-solving and programming fundamentals as part of AP Computer Science A. (6/2026) [Java Project](https://github.com/lukaskazmierczak/Java_code)<br>
+>Collection of Java programming projects and coursework demonstrating computational problem-solving and programming fundamentals as part of AP Computer Science A. (6/2026)
+[Java Project](https://github.com/lukaskazmierczak/Java_code)<br>
 
 **Engineering - Skateboard CAD Model**
 >Designed a 3D skateboard model using Onshape, applying CAD modeling and mechanical assembly concepts as part of Intro to Engineering course. (6/2025)
