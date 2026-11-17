@@ -36,7 +36,7 @@ I've been programming since middle school and enjoy applying what I've learned t
 
 **Python Programming**
 >Python programming projects demonstrating computational problem-solving and programming fundamentals as part of 4 course sequence. (2/23)
-[Python Project]
+[Python Project](https://github.com/lukaskazmierczak/Python-WebDev)
 
 **Currently Exploring**<br>
 
