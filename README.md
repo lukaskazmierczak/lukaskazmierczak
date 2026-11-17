@@ -10,6 +10,9 @@ I've been programming since middle school and enjoy applying what I've learned t
 **-Quantum Error Correction:** Currently investigating quantum error correction through my AP Research class, with a focus on understanding how quantum information can be protected against noise and errors.<br>
 **-Current Interests:** Interested in quantum circuits, entanglement, error mitigation, and computational approaches to quantum information science. Interest in further exploring quantum communication and cryptography and research opportunities involving quantum algorithms and simulation <br>
 
+![Quantum Error Correction](quantum-error-correction.gif)
+Quantum Error Correction animation created by Dave Whyte. GIF converted from the original video.
+
 **Programming & Technical Skills** <br>
 
 **Languages:**
