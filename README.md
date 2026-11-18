@@ -31,7 +31,6 @@ I've been programming since middle school and enjoy applying what I've learned t
 [B92 QKD & GHZ-State Generation Algorithm](https://github.com/JK2240/GHZ-Generator-Rodrigo-)
 
 **Java Programming** <br>
-><img align="left" width="90" height="81.25" alt="lukas_java_recursive_flood_fill" src="https://github.com/user-attachments/assets/4bd09dc8-3053-4bb2-a28c-d2ce4e60de1a" />
 >Collection of Java programming projects and coursework demonstrating computational problem-solving and programming fundamentals as part of AP Computer Science A. (6/2026)
 [Java Project](https://github.com/lukaskazmierczak/Java_code)<br>
 
