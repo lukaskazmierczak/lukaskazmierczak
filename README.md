@@ -41,7 +41,8 @@ I've been programming since middle school and enjoy applying what I've learned t
 
 **Javascript/Web Programming**
 ><img align="left" width="85" height="85" alt="space_impact_gameplay_square" src="https://github.com/user-attachments/assets/53b2c7a8-270a-4446-899c-20b6b7e0b91d" />
->Javascript programming projects demonstrating my web development skills through responsive design, JavaScript programming, and interactive web applications as part of 4 course sequence. (6/2024) [Javascript Project](https://github.com/lukaskazmierczak/Javascript-InteractiveWeb)
+>Javascript programming projects demonstrating my web development skills through responsive design, JavaScript programming, and interactive web applications as part of 4 course sequence. (6/2024)
+[Javascript Project](https://github.com/lukaskazmierczak/Javascript-InteractiveWeb)
 
 **Python Programming**
 >Python programming projects demonstrating Python programming, HTML, and CSS, progressing from foundational programming concepts to building interactive applications, games, and websites as part of 4 course sequence. (2/2023)
