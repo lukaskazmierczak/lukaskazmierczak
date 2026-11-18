@@ -5,9 +5,9 @@ I'm a high school student interested in quantum computing, computer science, and
 I've been programming since middle school and enjoy applying what I've learned to research, simulations, and independent projects.
 
 **Research & Current Interests**<br>
-**-Quantum Computing Research:** Completed a 5-week mentored research project exploring concurrent B92 quantum key distribution and GHZ-state generation, using Python and Cirq.<br>
-**-Quantum Error Correction:** Currently investigating quantum error correction through my AP Research class, with a focus on understanding how quantum information can be protected against noise and errors.<br>
-**-Current Interests:** Interested in quantum circuits, entanglement, error mitigation, and computational approaches to quantum information science. Interest in further exploring quantum communication and cryptography and research opportunities involving quantum algorithms and simulation <br>
+**-Quantum Cryptography:** Completed a five-week mentored research project investigating hybrid B92 and GHZ-based quantum key distribution using Python and Cirq. <br>
+**-Quantum Error Correction:** Currently conducting AP Research examining how quantum information can be protected against noise and errors. <br>
+**-Research Interests:** Quantum algorithms, entanglement, fault-tolerant quantum computing, quantum communication, and computational simulation. <br>
 
 **Programming & Technical Skills** <br>
 
@@ -39,9 +39,9 @@ I've been programming since middle school and enjoy applying what I've learned t
 >Designed a 3D skateboard model using Onshape, applying CAD modeling and mechanical assembly concepts as part of Intro to Engineering course. (6/2025)
 [CAD Project](https://github.com/lukaskazmierczak/OnShape-CAD-Project-Skateboard-Model)
 
-**Javascript/Web Programming**
+**Javascript/Web Development**
 ><img align="left" width="85" height="85" alt="space_impact_gameplay_square" src="https://github.com/user-attachments/assets/53b2c7a8-270a-4446-899c-20b6b7e0b91d" />
->Javascript programming projects demonstrating my web development skills through responsive design, JavaScript programming, and interactive web applications as part of 4 course sequence. (6/2024)
+>Interactive web applications and games developed using HTML, CSS, JavaScript, and jQuery through a four-course web development sequence, including responsive design and a project-based capstone. (6/2024)
 [Javascript Project](https://github.com/lukaskazmierczak/Javascript-InteractiveWeb)
 
 **Python Programming**
