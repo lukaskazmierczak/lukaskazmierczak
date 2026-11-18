@@ -45,5 +45,5 @@ I've been programming since middle school and enjoy applying what I've learned t
 [Javascript Project](https://github.com/lukaskazmierczak/Javascript-InteractiveWeb)
 
 **Python Programming**
->Python programming projects demonstrating Python programming, HTML, and CSS, progressing from foundational programming concepts to building interactive applications, games, and websites as part of 4 course sequence. (2/2023)
+>Foundational Python programming projects, interactive applications, games, and websites developed through a four-course sequence culminating in a project-based capstone. (2/2023)
 [Python Project](https://github.com/lukaskazmierczak/Python-WebDev)
