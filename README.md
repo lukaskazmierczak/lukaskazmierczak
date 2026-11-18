@@ -32,16 +32,16 @@ I've been programming since middle school and enjoy applying what I've learned t
 
 **Java Programming** <br>
 >Collection of Java programming projects and coursework demonstrating computational problem-solving and programming fundamentals as part of AP Computer Science A. (6/2026)
-[Java Project](https://github.com/lukaskazmierczak/Java_code)<br>
+[AP Computer Science A — Java Projects](https://github.com/lukaskazmierczak/Java_code)<br>
 
 **Engineering - Skateboard CAD Model**
 >Designed a 3D skateboard model using Onshape, applying CAD modeling and mechanical assembly concepts as part of Intro to Engineering course. (6/2025)
-[CAD Project](https://github.com/lukaskazmierczak/OnShape-CAD-Project-Skateboard-Model)
+[Onshape Skateboard CAD Model](https://github.com/lukaskazmierczak/OnShape-CAD-Project-Skateboard-Model)
 
 **Javascript/Web Development**
 >Interactive web applications and games developed using HTML, CSS, JavaScript, and jQuery through a four-course web development sequence, including responsive design and a project-based capstone. (6/2024)
-[Javascript Project](https://github.com/lukaskazmierczak/Javascript-InteractiveWeb)
+[Javascript Projects](https://github.com/lukaskazmierczak/Javascript-InteractiveWeb)
 
 **Python Programming**
 >Foundational Python programming projects, interactive applications, games, and websites developed through a four-course sequence culminating in a project-based capstone. (2/2023)
-[Python Project](https://github.com/lukaskazmierczak/Python-WebDev)
+[Python Projects](https://github.com/lukaskazmierczak/Python-WebDev)
