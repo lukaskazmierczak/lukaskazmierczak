@@ -39,7 +39,6 @@ I've been programming since middle school and enjoy applying what I've learned t
 [CAD Project](https://github.com/lukaskazmierczak/OnShape-CAD-Project-Skateboard-Model)
 
 **Javascript/Web Development**
-><img align="left" width="85" height="85" alt="space_impact_gameplay_square" src="https://github.com/user-attachments/assets/53b2c7a8-270a-4446-899c-20b6b7e0b91d" />
 >Interactive web applications and games developed using HTML, CSS, JavaScript, and jQuery through a four-course web development sequence, including responsive design and a project-based capstone. (6/2024)
 [Javascript Project](https://github.com/lukaskazmierczak/Javascript-InteractiveWeb)
 
